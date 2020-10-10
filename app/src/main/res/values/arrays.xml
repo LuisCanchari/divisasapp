@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listadeMonedas">
+        <item>Sol</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Libra</item>
+        <item>Peso</item>
+        <item>Yen</item>
+        <item>Corona Suiza</item>
+        <item>Yuan</item>
+        <item>Rupia</item>
+
+
+    </string-array>
+</resources>

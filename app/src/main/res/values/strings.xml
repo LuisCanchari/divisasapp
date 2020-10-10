@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">divisasapp</string>
+    <string-array name="listaMonedas">
+        <item>Sol</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Libra</item>
+        <item>Peso</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
