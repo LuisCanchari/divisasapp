@@ -35,4 +35,9 @@ public class MainActivity extends AppCompatActivity {
         intent = new Intent(this,aleatorioActivity.class);
         startActivity(intent);
     }
+
+    public void jugarDados(View view) {
+        intent = new Intent(this,JuegoDadosActivity.class);
+        startActivity(intent);
+    }
 }

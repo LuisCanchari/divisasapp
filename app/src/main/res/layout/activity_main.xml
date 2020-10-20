@@ -35,18 +35,19 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Opcion1"
+            android:text="Dados 1"
             android:layout_weight="1"
             android:onClick="opcion1"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Opcion2"
-            android:layout_weight="1"/>
+            android:text="Dados 2"
+            android:layout_weight="1"
+            android:onClick="jugarDados"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Opcion3"
+            android:text="Opcion"
             android:layout_weight="1"/>
     </LinearLayout>
 
